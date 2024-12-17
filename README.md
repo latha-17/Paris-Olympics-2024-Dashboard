@@ -45,6 +45,7 @@ Interactive Visualizations: User-friendly visuals and filters for custom views.
 
 # **Tools Used**
 Power BI Desktop: Used to create the interactive dashboard and visualizations.
+
 Microsoft Excel: For initial data processing and cleaning.
 Python: To Scrape data from and automate data uploading.
 Public APIs: To fetch additional data like athlete statistics and country profiles.
