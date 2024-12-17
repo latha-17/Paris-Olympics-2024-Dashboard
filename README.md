@@ -1,5 +1,6 @@
-# Paris-Olympics-2024-Dashboard
-Paris Olympics 2024 Dashboard in Power BI
+# Paris Olympic 2024 Dashboard 🏅
+
+This Power BI dashboard visualizes key insights from the 2024 Paris Olympics, providing a detailed breakdown of medals, athletes, and country performances. The project highlights the power of data analytics in making sense of large-scale sports events.
 
 **Overview**
 This project features an interactive and detailed Power BI dashboard focusing on the Paris 2024 Olympics, held in August 2024. The dashboard provides insights into various aspects of the event, including medal tallies, athlete performances, country comparisons, and much more.
@@ -10,10 +11,6 @@ Country Comparisons: Visual comparisons of countries’ performances across diff
 Athlete Performance: Detailed insights into individual athlete achievements and records.
 Historical Data: Comparison with previous Olympics to identify trends and patterns.
 Interactive Visualizations: User-friendly visuals and filters for custom views.
-
-# Paris Olympic 2024 Dashboard 🏅
-
-This Power BI dashboard visualizes key insights from the 2024 Paris Olympics, providing a detailed breakdown of medals, athletes, and country performances. The project highlights the power of data analytics in making sense of large-scale sports events.
 
 **📊 Features of the Dashboard**
 
@@ -46,13 +43,13 @@ This Power BI dashboard visualizes key insights from the 2024 Paris Olympics, pr
 - Female athletes performed exceptionally well, contributing equally to medal counts.
 - A diverse age group of athletes, with significant participation in the 21-30 age bracket.
 
-**Tools Used**
+# **Tools Used**
 Power BI Desktop: Used to create the interactive dashboard and visualizations.
 Microsoft Excel: For initial data processing and cleaning.
 Python: To Scrape data from and automate data uploading.
 Public APIs: To fetch additional data like athlete statistics and country profiles.
 
-**Files Included**
+# **Files Included**
 Olympic 2024_Dashboard.pbix: The Power BI dashboard file.
 Datastes.zip: Folder containing raw data files used for the dashboard.
 Snapshots.zip: Folder with screenshots of the dashboard for preview.
